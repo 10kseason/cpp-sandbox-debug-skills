@@ -1,0 +1,4 @@
+interface:
+  display_name: "C++ Sandbox Debug"
+  short_description: "Debug C++ repos without a GUI debugger"
+  default_prompt: "Use $cpp-sandbox-debug to debug this C++ issue in a sandboxed or tool-limited environment."
